@@ -55,11 +55,11 @@ Same as `build`, but watches for file changes and rebuilds automatically.
 
 ### `npm run dev:css`
 
-Builds the CSS and launches a live server with the traditional CSS implementation (`index.html`).
+Builds the CSS and launches a live server with the traditional CSS implementation (`index.css.html`).
 
 ### `npm run dev:tw`
 
-Builds the CSS and launches a live server with the Tailwind implementation (`tailwind.html`).
+Builds the CSS and launches a live server with the Tailwind implementation (`index.html`).
 
 ### Workflow
 
