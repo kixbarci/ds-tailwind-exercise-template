@@ -14,8 +14,8 @@ This project contains two HTML implementations:
 .
 ├── build/                 # Build output directory
 ├── src/
-│   ├── index.html         # Traditional CSS implementation
-│   ├── tailwind.html      # Tailwind CSS implementation
+│   ├── index.css.html     # Traditional CSS implementation
+│   ├── index.html         # Tailwind CSS implementation
 │   └── styles/
 │       ├── input.css      # Tailwind directives
 │       └── styles.css     # Generated CSS output
