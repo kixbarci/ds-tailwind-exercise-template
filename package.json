@@ -6,9 +6,8 @@
   "scripts": {
     "build:watch": "npx tailwindcss -i ./src/styles/input.css -o ./src/styles/styles.css --watch",
     "build": "npx tailwindcss -i ./src/styles/input.css -o ./src/styles/styles.css",
-    "dev:css": "npm run build && npx live-server src/index.html",
-    "dev:tw": "npm run build && npx live-server src/tailwind.html"
-
+    "dev:css": "npm run build && npx live-server src/index.css.html",
+    "dev:tw": "npm run build && npx live-server src"
   },
   "author": "",
   "license": "ISC",

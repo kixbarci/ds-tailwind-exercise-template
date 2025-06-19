@@ -60,3 +60,10 @@ Builds the CSS and launches a live server with the traditional CSS implementatio
 ### `npm run dev:tw`
 
 Builds the CSS and launches a live server with the Tailwind implementation (`tailwind.html`).
+
+### Workflow
+
+Run two terminals with each command:
+
+- `npm run dev:tw`
+- `npm run build:watch`
